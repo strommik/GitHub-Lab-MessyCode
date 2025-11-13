@@ -1,0 +1,3 @@
+nginanamo ka ang mahal ng bootcamp 2600 ampotik tapos wala man lang kahit jaolllibbe or bupet langya talaga lugi idolo ar
+if potangniaka == 2:
+  print("naknampotik naperahan nanaman ng skol pre")
